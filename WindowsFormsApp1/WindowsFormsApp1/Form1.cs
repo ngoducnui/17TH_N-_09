@@ -16,5 +16,10 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        public void sbv()
+        {
+            string a = "dasdsadsadsadsadsa";
+        }
     }
 }
